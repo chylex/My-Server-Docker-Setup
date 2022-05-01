@@ -4,9 +4,10 @@ This repository contains configuration and setup guides for services that run on
 
 **Overview of all services in this repository (see [Services](#3-services) section):**
 
-| Service | Description | License (*) | Rootless |
-|---------|-------------|-------------|:--------:|
-| TODO    |             |             |          |
+| Service              | Description                                      | License (*)                   | Rootless |
+|----------------------|--------------------------------------------------|-------------------------------|:--------:|
+| [Airsonic](airsonic) | Music streaming server compatible with Subsonic. | [Unlicense](airsonic/LICENSE) |   yes    |
+| TODO                 |                                                  |                               |          |
 
 **Overview of local images needed to build some of the services (see [Local Images](#31-local-images) section):**
 
