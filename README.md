@@ -10,9 +10,10 @@ This repository contains configuration and setup guides for services that run on
 
 **Overview of local images needed to build some of the services (see [Local Images](#31-local-images) section):**
 
-| Image | Description | License (*)  |
-|-------|-------------|--------------|
-| TODO  |             |              |
+| Image                              | Description                                                                   | License (*)                              |
+|------------------------------------|-------------------------------------------------------------------------------|------------------------------------------|
+| [nginx-proxy](.images/nginx-proxy) | Reverse proxy that provides HTTP / HTTPS access to web servers in containers. | [Unlicense](.images/nginx-proxy/LICENSE) |
+| TODO                               |                                                                               |                                          |
 
 # 1. Requirements
 
