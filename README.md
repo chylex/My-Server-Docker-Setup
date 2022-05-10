@@ -14,7 +14,7 @@ This repository contains configuration and setup guides for services that run on
 | Image                              | Description                                                                   | License (*)                              |
 |------------------------------------|-------------------------------------------------------------------------------|------------------------------------------|
 | [nginx-proxy](.images/nginx-proxy) | Reverse proxy that provides HTTP / HTTPS access to web servers in containers. | [Unlicense](.images/nginx-proxy/LICENSE) |
-| TODO                               |                                                                               |                                          |
+| [db-backup](.images/db-backup)     | Periodic SQL database server backup.                                          | [MIT](.images/db-backup/LICENSE)         |
 
 # 1. Requirements
 
