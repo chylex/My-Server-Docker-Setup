@@ -10,7 +10,7 @@ env() {
 INCLUDES=""
 LISTEN=""
 
-if [ -n "SSL_CERT" ] && [ -n "$SSL_CERT_KEY" ]; then
+if [ -n "$SSL_CERT" ] && [ -n "$SSL_CERT_KEY" ]; then
   INCLUDES="include conf.d/ssl.conf;"
   LISTEN=" ssl"
   env SSL_CERT      ssl.conf
